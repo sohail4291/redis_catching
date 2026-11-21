@@ -1,5 +1,5 @@
 
-# Authentication & Authorization API
+# Redis Catching Implementation in backend crud with Authentication & Authorization API
 
 A backend authentication and authorization system built using **Node.js, Express, TypeScript, PostgreSQL, Prisma ORM, and JWT**.
 
